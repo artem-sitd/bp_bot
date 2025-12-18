@@ -162,12 +162,11 @@ async def register_name(message: Message):
     )
     session.add(new_user)
     session.commit()
-    session.close()
-
     await message.answer(
         f"✅ Зарегистрирован как **{new_user.name}**",
         parse_mode="Markdown"
     )
+    session.close()
 
 
 async def main():
