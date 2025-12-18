@@ -1,3 +1,10 @@
+## License
+
+© 2025 Artem Albertov. All Rights Reserved.
+
+This repository is provided for review purposes only (e.g. as a test assignment).
+Any copying, reuse, modification, or commercial use without explicit written
+permission from the author is strictly prohibited.
 # Telegram Bot — Business Processes Reminder
 
 ## 📌 Описание

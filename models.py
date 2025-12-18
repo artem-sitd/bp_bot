@@ -1,3 +1,8 @@
+# Copyright (c) 2025 Artem Albertov
+# All Rights Reserved.
+# This code is provided for review purposes only.
+# Any unauthorized use is strictly prohibited.
+
 from sqlalchemy import Column, Integer, String
 from db import Base
 

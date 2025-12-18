@@ -1,3 +1,8 @@
+# Copyright (c) 2025 Artem Albertov
+# All Rights Reserved.
+# This code is provided for review purposes only.
+# Any unauthorized use is strictly prohibited.
+
 from db import engine, SessionLocal
 from models import Base, BusinessProcess
 
