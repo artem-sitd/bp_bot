@@ -158,3 +158,6 @@ cython_debug/
 
 # secrets
 credentials.json
+
+# local database
+*.db
